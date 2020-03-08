@@ -1,0 +1,156 @@
+﻿body, html {
+     background: #ffffff url('../images/all_background.jpg') repeat-x center top;
+     color: #ffffff;
+     font-size: smaller;
+     margin: 0;
+     padding: 0;
+     font-family: Verdana, Arial, Sans-Serif;
+}
+#wrap {
+     width: 1000px;
+     margin: 0 auto; /*background:#99c;*/
+}
+#header {
+     padding: 5px 10px; /*background:#ddd;*/
+}
+h1 {
+     margin: 0;
+}
+#nav {
+     background-color: #000000;
+     padding: 10px 10px; /*background:#c99;*/
+	text-align: center;
+}
+#nav ul {
+     margin: 0;
+     padding: 0;
+     list-style: none;
+}
+#nav li {
+     display: inline;
+     font-family: Arial, Sans-Serif;
+     font-size: medium; /*font-weight: bold;*/;
+     margin: 0;
+     padding: 0;
+}
+#nav a:link, #nav a:active, #nav a:visited {
+     background-color: #000000;
+     color: #ffffff;
+	text-transform: uppercase;
+}
+#nav a:hover {
+     background-color: #ffffff;
+     color: #000000;
+	text-transform: uppercase;
+}
+#subnav{
+     color: #ffff00;
+     display: inline;
+	font-size: small;
+     text-decoration: none;
+	text-transform: uppercase;
+}
+#subnav a:link, #subnav a:active, #subnav a:visited {
+     color: #ffff00;
+	font-size: small;
+	text-transform: uppercase;
+}
+#subnav a:hover {
+     background-color: #ffff00;
+     color: #000000;
+	font-size: small;
+	text-transform: uppercase;
+}
+#main {
+     background-color: #ffffff;
+     float: left;
+     color: #000000;
+     min-height: 250px;
+     width: 69%;
+     padding: 10px; /*background:#9c9;*/
+}
+#main a:link, #main a:active, #main a:visited, #main a:hover {
+     background-color: #ffffff;
+     color: #000000;
+}
+h2 {
+     font-size: large;
+     margin: 0 0 1em;
+}
+h2#location {
+     font-size: x-large;
+     margin: 0 0 1em;
+     border-bottom: solid 2px #000000;
+}
+#sidebar {
+     background-color: #660000;
+	 color: #cccccc;
+     float: right;
+     width: 25%;
+     padding: 10px;
+}
+#sidebar li {
+     list-style: none;
+     color: #cccccc;
+}
+#sidebar p, #sidebar ul {
+     margin-top: 0px;
+}
+#footer {
+	background-color: #000000;
+	clear: both; 
+	padding: 5px 10px;
+	padding-bottom: 20px;
+	text-align: center;
+	
+}
+#footer li {
+     display: inline;
+}
+#footer p {
+     margin: 0;
+}
+* html #footer {
+     height: 1px;
+}
+a:link, a:active, a:visited, a:hover {
+     color: #ffffff;
+}
+hr {
+     color: #000000;
+     text-align: center;
+     width: 90%;
+
+}
+li a:link#onpage, li a:active#onpage, li a:visited#onpage{
+     font-weight: bold;
+     text-decoration: none;
+}
+img {
+     border-width: 0px;
+}
+#searchbox {
+     width: 150px;
+}
+h3.sideBarHeader {
+     background-color: #000000;
+     color: #ffffff;
+     border-bottom: solid 1px #ffffff;
+     padding-top: 5px;
+     width: 100%;
+     margin-bottom: 0px;
+}
+.sideBarBody{
+	background-color: #000000;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+}
+input.text{
+     width: 300px;
+}
+
+input.text, select, textarea{
+	border: solid 2px #000000;
+	}
+
+
