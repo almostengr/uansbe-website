@@ -1,0 +1,22 @@
+
+<!-- START NEWS AND ALERTS - STATR NEWS AND ALERTS -->
+<hr style="width:80%;" />
+
+<strong class="heading">News and Alerts</strong><br />
+<ul>
+<!--
+<li class="heading2">Example News or Alert</li>
+<span style="color: #fff;"><a href="link.html">Read more</a></span>
+</li>
+-->
+
+<li class="heading2">2009-2010 Officer Positions Available<br />
+<span style="color: #fff;"><a href="news.html#2009-2010_officer_positions_available">Read more</a></span>
+</li>
+
+<!--
+<li class="heading2">No News or Alerts</li>
+-->
+
+</ul>
+<!-- END NEWS AND ALERTS - END NEWS AND ALERTS -->
